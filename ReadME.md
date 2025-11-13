@@ -17,3 +17,5 @@
 4. Para iniciar o progama novamente execute o arquivo.py novamente
 5. Aproveite
 
+# Requesitos
+- python 3.13
