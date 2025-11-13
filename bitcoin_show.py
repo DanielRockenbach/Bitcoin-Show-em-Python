@@ -1,8 +1,6 @@
 import random
-import json
 import requests
 import html
-import urllib3
 
 # Adicionando uma variável global para armazenar as perguntas baixadas
 PERGUNTAS_BAIXADAS = {
@@ -200,4 +198,5 @@ def main():
 
 
 
-main()
+if __name__ == '__main__':
+    main()
